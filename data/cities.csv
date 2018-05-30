@@ -1,0 +1,35 @@
+city,cityp,state,latitude,longitude,cf_link,city_id
+bangalore,Bangalore,Karnataka,12.9716,77.5946,https://www.commonfloor.com/bangalore-city,1
+mumbai,Mumbai,Maharashtra,19.076,72.8777,https://www.commonfloor.com/mumbai-city,2
+delhi,Delhi,Delhi,28.7041,77.1025,https://www.commonfloor.com/delhi-city,3
+hyderabad,Hyderabad,Telengana,17.385,78.4867,https://www.commonfloor.com/hyderabad-city,4
+chennai,Chennai,Tamil Nadu,13.0827,80.2707,https://www.commonfloor.com/chennai-city,5
+kolkata,Kolkata,West Bengal,22.5726,88.3639,https://www.commonfloor.com/kolkata-city,6
+mohali,Mohali,Punjab,30.7046,76.7179,https://www.commonfloor.com/mohali-city,7
+jaipur,Jaipur,Rajasthan,26.9124,75.7873,https://www.commonfloor.com/jaipur-city,8
+gurgaon,Gurgaon,Haryana,28.4595,77.0266,https://www.commonfloor.com/gurgaon-city,9
+pune,Pune,Maharashtra,18.5204,73.8567,https://www.commonfloor.com/pune-city,10
+noida,Noida,Uttar Pradesh,28.5355,77.391,https://www.commonfloor.com/noida-city,11
+lucknow,Lucknow,Uttar Pradesh,26.8467,80.9462,https://www.commonfloor.com/lucknow-city,12
+patna,Patna,Bihar,25.5941,85.1376,https://www.commonfloor.com/patna-city,13
+chandigarh,Chandigarh,,30.7333,76.7794,https://www.commonfloor.com/chandigarh-city,14
+raipur,Raipur,Chhattisgarh,21.2514,81.6296,https://www.commonfloor.com/raipur-city ,15
+goa,Goa,Goa,15.2993,74.124,https://www.commonfloor.com/goa-city,16
+ahmedabad,Ahmedabad,Gujarat,23.0225,72.5714,https://www.commonfloor.com/ahmedabad-city,17
+shimla,Shimla,Himachal Pradesh,31.1048,77.1734,https://www.commonfloor.com/shimla-city,18
+jammu,Jammu,Jammu and Kashmir,32.7266,74.857,https://www.commonfloor.com/jammu-city,19
+ranchi,Ranchi,Jharkhand,23.3441,85.3096,https://www.commonfloor.com/ranchi-city,20
+trivandrum,Trivandrum,Kerala,8.5241,76.9366,https://www.commonfloor.com/trivandrum-city,21
+bhopal,Bhopal,Madhya Pradesh,23.2599,77.4126,https://www.commonfloor.com/bhopal-city,22
+Bhubaneswar,Bhubaneswar,Odisha,20.2961,85.8245,https://www.commonfloor.com/Bhubaneswar-city,23
+Dehradun,Dehradun,Uttarakhand,30.3165,78.0322,https://www.commonfloor.com/Dehradun-city,24
+Visakhapatnam,Visakhapatnam,Andhra Pradesh,17.6868,83.2185,https://www.commonfloor.com/Visakhapatnam-city,25
+surat,Surat,Gujarat,21.1702,72.8311,https://www.commonfloor.com/surat-city,26
+rajkot,Rajkot,Gujarat,22.3039,70.8022,https://www.commonfloor.com/rajkot-city,27
+nashik,Nashik,Maharashtra,19.9975,73.7898,https://www.commonfloor.com/nashik-city,28
+nagpur,Nagpur,Maharashtra,21.1458,79.0882,https://www.commonfloor.com/nagpur-city,29
+Coimbatore,Coimbatore,Tamil Nadu,11.0168,76.9558,https://www.commonfloor.com/Coimbatore-city,30
+mysore,Mysore,karnataka,12.2958,76.6394,https://www.commonfloor.com/mysore-city,31
+Kochi,Kochi,Kerala,9.9312,76.2673,https://www.commonfloor.com/Kochi-city,32
+Jamshedpur,Jamshedpur,Jharkhand,22.8046,86.2029,https://www.commonfloor.com/Jamshedpur-city,33
+Ghaziabad,Ghaziabad,Uttar Pradesh,28.6692,77.4538,https://www.commonfloor.com/Ghaziabad-city,34

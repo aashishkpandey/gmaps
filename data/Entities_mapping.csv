@@ -1,0 +1,30 @@
+entity,e_key,color,icon
+ATM,1,orange,fa-rupee-sign
+Bank,2,green,piggy-bank
+Shopping Mall,3,darkgreen,shopping-cart
+Restaurants,4,blue,utensils
+Hospitals,5,purple,hospital
+Hotels,6,darkpurple,h-square
+Schools,7,cadetblue,school
+Universities,8,red,university
+Play schools,9,darkred,child
+Pharmacy,10,orange,medrt
+Surgical Store,11,green,medkit
+Reliance Fresh,12,darkgreen,shopping-cart
+Ratnadeep Super Market,13,blue,shopping-cart
+Ghanshyam Super Market,14,purple,shopping-cart
+More Super Market,15,darkpurple,shopping-cart
+Sampoorna Super Market,16,cadetblue,shopping-cart
+Reliance Digital,17,red,mobile-alt
+reliance footprint,18,darkred,shoe-prints
+max fashion,19,orange,user-tie
+pantaloons,20,green,user-tie
+shoppers stop,21,darkgreen,user-tie
+reliance trends,22,blue,user-tie
+Cafe Coffee Day,23,purple,coffee
+McDonald's,24,darkpurple,utensils
+domino's pizza,25,cadetblue,utensils
+Pizza hut,26,red,utensils
+KFC,27,darkred,utensils
+Starbucks Coffee,28,orange,coffee
+subway,29,green,utensils
